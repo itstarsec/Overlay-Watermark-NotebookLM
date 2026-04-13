@@ -11,7 +11,7 @@ Công cụ này cho phép bạn tự động chèn (stamp) một ảnh PNG vào 
 pip install pymupdf
 
 ## ▶️ Cách dùng
-python stamp_pdf.py
+python overlay.py
 
 ## 🧠 Logic chính
 rect = fitz.Rect(
